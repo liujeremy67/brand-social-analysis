@@ -32,7 +32,6 @@ share/python-wheels/
 .ipynb_checkpoints
 
 # Data files (optional - depends on your data sharing policy)
-*.csv
 *.json
 data/
 raw_data/
